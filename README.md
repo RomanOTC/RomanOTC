@@ -62,15 +62,53 @@ Model Evaluation and Optimization
 
 ## 📂 Projects
 
-### [Project 1 Name]
-- **Description:** [Brief Description of the Project]
-- **Tech Stack:** [Technologies Used]
-- **Repository:** [Link to Project Repository]
+### **Wine Quality Prediction**  
+- **Description:** Developed a machine learning model to predict wine quality based on chemical characteristics such as acidity, density, and pH. Utilized data preprocessing and visualization techniques to uncover insights and improve model accuracy.  
+- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Repository:** [Link to Project Repository]  
 
-### [Project 2 Name]
-- **Description:** [Brief Description of the Project]
-- **Tech Stack:** [Technologies Used]
-- **Repository:** [Link to Project Repository]
+---
+
+### **Restaurant Analysis**  
+- **Description:** Conducted an exploratory data analysis (EDA) on restaurant data to identify trends and insights about cuisines, price ranges, and online delivery preferences. Created visualizations to support decision-making for restaurant chain expansion.  
+- **Tech Stack:** Python, Pandas, Plotly, Matplotlib, Tableau  
+- **Repository:** [Link to Project Repository]  
+
+---
+
+### **Fraud Detection**  
+- **Description:** Designed and implemented a machine learning pipeline to identify fraudulent financial transactions using classification algorithms. Focused on feature engineering and real-time monitoring capabilities to enhance fraud prevention.  
+- **Tech Stack:** Python, Scikit-learn, TensorFlow, Pandas, Airflow  
+- **Repository:** [Link to Project Repository]  
+
+---
+
+### **Analysis of Food and Beverage Industry Survey Data**  
+- **Description:** Analyzed survey data to extract consumer preferences and perceptions in the food and beverage industry. Created interactive dashboards to visualize trends and provide actionable insights.  
+- **Tech Stack:** Power BI, Python, Pandas, SQL  
+- **Repository:** [Link to Project Repository]  
+
+---
+
+### **Predicting House Prices with Linear Regression**  
+- **Description:** Built a regression model to predict house prices based on key features such as location, size, and amenities. Included steps like feature selection, model evaluation, and visualization of predictions.  
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib  
+- **Repository:** [Link to Project Repository]  
+
+---
+
+### **Unveiling the Android App Market: Google Play Store Data Analysis**  
+- **Description:** Performed data cleaning, categorization, and visualization on Google Play Store data to uncover market trends, app popularity, and user sentiment. Provided insights to aid app developers in optimizing strategies.  
+- **Tech Stack:** Python, Pandas, Plotly, Seaborn, Tableau  
+- **Repository:** [Link to Project Repository]  
+
+---
+
+### **Traffic Accident Analysis**  
+- **Description:** Analyzed traffic accident data to identify factors contributing to accidents. Focused on variables such as weather, time of day, and location to provide insights for policy recommendations and traffic safety improvements.  
+- **Tech Stack:** Python, Pandas, Matplotlib, GeoPandas  
+- **Repository:** [Link to Project Repository]  
+
 
 ## 📫 Contact Me
 
