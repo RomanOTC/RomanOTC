@@ -65,7 +65,7 @@ Model Evaluation and Optimization
 ### **Wine Quality Prediction**  
 - **Description:** Developed a machine learning model to predict wine quality based on chemical characteristics such as acidity, density, and pH. Utilized data preprocessing and visualization techniques to uncover insights and improve model accuracy.  
 - **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Repository:** [Link to Project Repository]  
+- **Repository:** (https://github.com/RomanOTC/PrasadOasis/blob/main/Wine%20Quality%20Prediction.ipynb) 
 
 ---
 
