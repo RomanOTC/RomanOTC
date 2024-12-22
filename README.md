@@ -20,7 +20,9 @@ Welcome to my GitHub profile. I'm passionate about programming, open-source, and
 **Languages:**  
 - Python  
 - SQL  
-- R  
+- R
+- MongoDB
+- Power BI
 - Bash/Shell scripting  
 
 ---
@@ -35,7 +37,7 @@ Welcome to my GitHub profile. I'm passionate about programming, open-source, and
 
 **Tools:**  
 - **Data Analytics:** Power BI, Tableau  
-- **Database Management:** MySQL, PostgreSQL, MongoDB, Snowflake  
+- **Database Management:** MySQL, MongoDB, Snowflake  
 - **Cloud Platforms:** AWS (S3, EC2, RDS, Lambda), Google Cloud Platform (GCP)  
 - **Version Control:** Git, GitHub  
 - **Development:** Jupyter Notebook  
