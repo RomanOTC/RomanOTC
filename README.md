@@ -29,8 +29,7 @@ Welcome to my GitHub profile. I'm passionate about programming, open-source, and
 
 **Frameworks/Libraries:**  
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-- **Cloud SDKs:** AWS SDK, Azure SDK, Google Cloud Client Libraries   
+- **Machine Learning:** Scikit-learn    
 - **Big Data:** Apache Hadoop, Apache Spark  
 
 ---
@@ -38,13 +37,9 @@ Welcome to my GitHub profile. I'm passionate about programming, open-source, and
 **Tools:**  
 - **Data Analytics:** Power BI, Tableau  
 - **Database Management:** MySQL, MongoDB, Snowflake  
-- **Cloud Platforms:** AWS (S3, EC2, RDS, Lambda), Google Cloud Platform (GCP)  
+- **Cloud Platforms:** Google Cloud Platform (GCP)  
 - **Version Control:** Git, GitHub  
-- **Development:** Jupyter Notebook  
-- **Data Pipelines:** Apache Kafka, Airflow  
-- **Containerization:** Docker, Kubernetes  
-- **CI/CD:** Jenkins, GitLab CI  
-- **Task Automation:** Apache NiFi  
+- **Development:** Jupyter Notebook   
 - **Operating Systems:** Windows, Linux (Ubuntu)
 
 --- 
